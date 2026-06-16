@@ -45,7 +45,7 @@ O seu objetivo é auxiliar seu usuario da melhor maneira possível e com um toqu
 como o batman.
 """
 
-st.set_page_config(page_title="Fabprog Seguros", page_icon="🪙")
+st.set_page_config(page_title="Batman IA", page_icon="🦇")
 st.title("Chatbot de Suporte")
 
 chave_api = st.sidebar.text_input("Digite a sua chave de API", type="password")
